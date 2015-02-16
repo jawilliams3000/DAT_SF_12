@@ -1,6 +1,7 @@
 DAT SF 12
 =========
 
+<<<<<<< HEAD
 <table border="0" style="border-collapse:collapse;" cellspacing="0">
 <tr><td>Instructor:<td>Alessandro Gagliardi</td></tr>
 <tr><td>EiRs:<td>Ramesh Sampath</td></tr>
@@ -87,3 +88,6 @@ Project Schedule
 | 3/10 | ***Midterm Assessment Due*** | |
 | 3/17 | At least one working model | |
 | 3/24-26 | **Final Presentations (12 minutes each)** | Midterm Graded |
+=======
+Note: I am working through the feedback on my proposal and hope to have the formal proposal posted on 2/12/15
+>>>>>>> acf05634219dc9c9a09f522b1f5ffe1987a17e1f
